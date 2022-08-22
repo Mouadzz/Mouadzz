@@ -6,7 +6,6 @@
 
 - 📫 How to reach me **dev1mouad@gmail.com**
 
-- 📄 Know about my experiences [https://mouadzz.netlify.app/](https://mouadzz.netlify.app/)
 
 
 <h3 align="left">Languages and Tools:</h3>
