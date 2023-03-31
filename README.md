@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mouad Lasritene</h1>
 
-- 👨‍💻 All of my projects are available at [mouad.dev](https://mouad.dev)
+- 👨‍💻 [mouad.dev](https://mouad.dev)
 
-- 💬 Ask me about **flutter, react**
-
-- 📫 How to reach me **mouad@lasritene.co**
+- 📫 How to reach me **contact@mouad.dev**
 
 
 
