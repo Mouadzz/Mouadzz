@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mouad Lasritene</h1>
+<h1 align="center">Hi 👋, I'm Mouad</h1>
 
 - 👨‍💻 [https://mouad.dev](https://mouad.dev)
 
