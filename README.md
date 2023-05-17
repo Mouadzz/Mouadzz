@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mouad Lasritene</h1>
 
-- 👨‍💻 [mouad.dev](https://mouad.dev)
-
-- 📫 How to reach me **contact@mouad.dev**
-
+- 👨‍💻 [https://mouad.dev](https://mouad.dev)
 
 
 <h3 align="left">Languages and Tools:</h3>
